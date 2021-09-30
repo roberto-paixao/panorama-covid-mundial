@@ -6,10 +6,10 @@ Contém o notebook com o panorama do Covid-19 na perspectiva Mundial e Brasileir
 
 Os dados usados nesta análise estão disponíveis no próprio repositório e foram extraídos de duas fontes:
 
-**Perpectiva mundial:**
+**Dataset mundial:**
 * [Our World In Data](https://ourworldindata.org/coronavirus): Reune dados de diversas fontes de dados espalhadas pelo mundo.
 
-**Perpectiva brasileira:**
+**Dataset brasileiro:**
 * [Wcota](https://github.com/wcota/covid19br): Projeto de extensão de pós-doutorado da Universidade Federal de Viçosa que monitora a situação da pandemia no Brasil através dos dados disponibilizados pelo Ministério da Saúde.
 
 
